@@ -17,6 +17,7 @@
 /Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/aspnet-test.csproj.CoreCompileInputs.cache
 /Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/aspnet-test.MvcApplicationPartsAssemblyInfo.cs
 /Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/aspnet-test.MvcApplicationPartsAssemblyInfo.cache
+/Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/aspnet-test.sourcelink.json
 /Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/staticwebassets.build.json
 /Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/staticwebassets.development.json
 /Users/long/Documents/80-coding-local/my-projects/aspnet-test/obj/Debug/net8.0/staticwebassets/msbuild.aspnet-test.Microsoft.AspNetCore.StaticWebAssets.props

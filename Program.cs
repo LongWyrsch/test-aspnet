@@ -36,6 +36,14 @@ app.MapGet("/weatherforecast", () =>
 .WithName("GetWeatherForecast")
 .WithOpenApi();
 
+// create an endpoint that just returns a message stored in appsettings.json"
+app.MapGet("/message", () =>
+{
+    var message = app.Configuration["Message"];
+    return Results.Ok(message);
+});
+
+
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
